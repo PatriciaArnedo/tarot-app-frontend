@@ -7,7 +7,7 @@ Users can ask a question, draw cards, save a reading, and save notes on their re
 
 Here is a sample of the tarot reading interface:
 
-<img src=https://i.imgur.com/8YPZQaf.gif/>
+<img src=https://i.imgur.com/E2fPniH.gif/>
 
 <h3>User Stories</h3>
 
