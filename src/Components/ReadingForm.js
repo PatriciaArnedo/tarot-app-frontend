@@ -2,7 +2,6 @@ import React from 'react'
 import { connect } from 'react-redux'
 import { withRouter } from 'react-router-dom'
 import { createReading } from '../redux/actions'
-import ReadingCard from './ReadingCard'
 
 
 class ReadingForm extends React.Component {

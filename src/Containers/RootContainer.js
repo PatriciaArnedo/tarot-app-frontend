@@ -5,7 +5,6 @@ import Welcome from '../Components/Welcome'
 import { connect } from 'react-redux'
 import { Route, Switch, Redirect, withRouter } from 'react-router-dom'
 import ReadingCard from '../Components/ReadingCard'
-import Info from '../Components/Info'
 
 
 function RootContainer(props){
